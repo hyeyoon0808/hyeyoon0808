@@ -23,7 +23,7 @@ interests = [
   'open-source',
 ]
 programming-languages = [
-  'c/cpp',
+  'c++',
   'java',
   'python',
   'html/css',
