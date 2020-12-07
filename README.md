@@ -27,7 +27,7 @@ programming-languages = [
   'java',
   'python',
   'html/css',
-  'react',
+  'react.js',
   'tensorflow',
 ]
 
