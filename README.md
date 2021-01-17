@@ -10,9 +10,6 @@ name = 'Hyeyoon Cho'
 city = 'Seoul, South Korea'
 email = 'hyeyooncho08 "at" gmail.com'
 
-[professional]
-currently-employed = false
-
 [bio]
 categories = [
   'generalist',
