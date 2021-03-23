@@ -27,6 +27,9 @@ programming-languages = [
   'react.js',
   'tensorflow',
 ]
+certification = [
+  'AWS Certified Solutions Architext - Professional'
+]
 
 
 ```
