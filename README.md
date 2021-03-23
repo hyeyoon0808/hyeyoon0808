@@ -7,30 +7,23 @@ Here's my `Hyeyoon.toml`:
 
 [personal]
 name = 'Hyeyoon Cho'
-city = 'Seoul, South Korea'
 email = 'hyeyooncho08 "at" gmail.com'
 
 [bio]
-categories = [
-  'generalist',
-]
 interests = [
   'functional-programming',
-  'AWS',
+  'cloud',
   'open-source',
 ]
 programming-languages = [
   'c++',
   'java',
   'python',
-  'html/css',
   'react.js',
-  'tensorflow',
 ]
 certification = [
   'AWS Certified Solutions Architext - Professional'
 ]
-
 
 ```
 
